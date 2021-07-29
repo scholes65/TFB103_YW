@@ -9,5 +9,5 @@
 
 Name  | age  |Height
 ------|------|------
-Allen |  25  | 175
-APPLE |  23  |  198
+Allen |  25  |  175
+Apple |  23  |  198
